@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Japanese"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a5691d44-4ed0-67fc-77c2-ba2830da98b3",
+      "2d223f0c-c001-5324-22e8-f1b16be3f074"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Kanji Learning Any Time, Any Place for Japanese VI",
+  "course_description": "This resource aims to enhance students\u2019 learning of kanji by providing a series of video lectures that cover the kanji characters in [Tobira](https://tobiraweb.9640.jp/) lessons 6\u201310. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.21G-506",
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
